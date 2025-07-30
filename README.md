@@ -1,4 +1,6 @@
 # Data Engineering Architectural Diagrams
+# Note: These enterprise-grade diagrams are for demonstration. Real implementations are often simpler.
+
 
 This repository contains enterprise-grade data engineering architectural diagrams showcasing modern data pipeline patterns, cloud-native solutions, and business intelligence implementations.
 
